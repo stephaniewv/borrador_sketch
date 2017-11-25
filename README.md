@@ -1,7 +1,8 @@
 ![logo](assets/img/logo_laboratoria.png)
-#3. Crea un sketch para la herramienta del dashboard de Laboratoria
 
-###Entrevista
+# 3. Crea un sketch para la herramienta del dashboard de Laboratoria
+
+### Entrevista
 
 La primera fase de la creación de nuestro Sketch para el Dashboard fue la entrevista a **Alejandra Ramirez**, ya que ella sería la usuaria de la plataforma.
 
@@ -18,14 +19,14 @@ En las preguntas que se realizaron notamos las siguientes necesidades principale
 * Comparativos por turnos y promoción.
 * Leyendas
 
-###Sketch
+### Sketch
 
 Se realiza el primer boceto a mano alzada del dashboard, se puede apreciar la pantalla general que tendría por default Lima ya que estaría dentro del perfil de Alejandra.
 
 ![skectch1](assets/img/sketch1_sin_desplegar.jpeg "Sin desplegar")
 ![sketch1](assets/img/sketch2_desplegado.jpeg "desplegado")
 
-###Modificaciones al Sketch
+### Modificaciones al Sketch
 
 Al mostrar el primer sketch a nuestra usuaria, nos dió algunas observaciones adicionales:
 
@@ -33,7 +34,7 @@ Al mostrar el primer sketch a nuestra usuaria, nos dió algunas observaciones ad
 2. Modificar el nombre de "% de Notas" por "Promedio".
 3. Cambiar los rangos de las leyendas HSE y Técnico.
 
-Teniendo en cuenta sus necesidades, el sketch se modificó de la siguiente manera: 
+Teniendo en cuenta sus necesidades, el sketch se modificó de la siguiente manera:
 
 
 
@@ -44,9 +45,9 @@ O incluir el nombre del lenguage de programación:
 // Esto sería código Javascript
 ```
 
-*Esto es un texto en cursiva, que también incluye otro ** en el propio texto **
+* Esto es un texto en cursiva, que también incluye otro ** en el propio texto **
 
-###**Alumna**
+### **Alumna**
 
->#####Stephanie Wong Vega
+>##### Stephanie Wong Vega
 
